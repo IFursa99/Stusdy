@@ -1,0 +1,2 @@
+# Stusdy
+with .gitignore
